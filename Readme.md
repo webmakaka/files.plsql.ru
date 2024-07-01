@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-	<img src="//plsql.ru/img/library/Oracle-SQL-100-steps-free-book.png" border="0" alt="Чалышев. Oracle SQL. 100 шагов от новичка до профессионала">
+<img src="https://plsql.ru/img/library/Oracle-SQL-100-steps-free-book.png" border="0" alt="Чалышев. Oracle SQL. 100 шагов от новичка до профессионала">
 </div>
 
 <br/>
